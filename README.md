@@ -1,3 +1,10 @@
+
+# 此项目是 GPL3 项目，而且使用了比较老旧可能无法访问的仓库（比如 bintray ），所以此处只是简单 fork 其代码，目前不打算使用计划后续有需要再研究
+
+
+
+
+
 # JD-Core
 
 JD-Core is a JAVA decompiler written in JAVA.
